@@ -2,8 +2,6 @@
 
 > 65 PM skills and 36 chained workflows across 8 plugins. Claude Code, Cowork, and more. From discovery to strategy, execution, launch, and growth. 
 
-![Plugin overview](.docs/images/plugins-overview.webp)
-
 Designed for Claude Code and Cowork. Skills compatible with other AI assistants.
 
 ## Start Here
@@ -34,8 +32,6 @@ Skills are loaded automatically when relevant to the conversation — no explici
 
 **Plugins** group related skills and commands into installable packages. Each plugin covers a PM domain — discovery, strategy, execution, and so on. Installing the marketplace gives you all 8 plugins at once.
 
-![How skills work](.docs/images/how-skills-work.webp)
-
 Commands use skills. Some skills serve multiple commands. Some skills (like `prioritization-frameworks` or `opportunity-solution-tree`) are standalone references that Claude draws on whenever relevant — no command needed.
 
 Commands are designed to flow into each other, matching the PM workflow. After any command completes, it suggests relevant next commands — just follow the prompts.
@@ -50,8 +46,6 @@ Commands are designed to flow into each other, matching the PM workflow. After a
 4. Enter: `phuryn/pm-skills`
 
 All 8 plugins install automatically. You get both commands (`/discover`, `/strategy`, etc.) and skills.
-
-![Installing PM Skills in Claude Cowork](.docs/images/pm-skills-install.gif)
 
 ### Claude Code (CLI)
 
